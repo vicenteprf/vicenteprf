@@ -1,6 +1,6 @@
 # 💻 Vicente Ramos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
 Desenvolvedor Full Stack em formação, estudando e desenvolvendo projetos com JavaScript, TypeScript e React. Experiência com HTML, CSS, Git e GitHub. Profissional com 4 anos de experiência em logística, em processo de transição de carreira para a área de tecnologia.
 
