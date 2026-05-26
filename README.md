@@ -1,6 +1,6 @@
 # 💻 Vicente Ramos
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full Stack`**
 
 Desenvolvedor Full Stack em formação, estudando e desenvolvendo projetos com JavaScript, TypeScript e React. Experiência com HTML, CSS, Git e GitHub. Profissional com 4 anos de experiência em logística, em processo de transição de carreira para a área de tecnologia.
 
@@ -26,6 +26,7 @@ Desenvolvedor Full Stack em formação, estudando e desenvolvendo projetos com J
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 </div>
 
@@ -33,7 +34,7 @@ Desenvolvedor Full Stack em formação, estudando e desenvolvendo projetos com J
 
 ## 📚 Atualmente estudando
 
-- React
+- Banco de dados
 - Node.js
 - Boas práticas de desenvolvimento
   <br/>
