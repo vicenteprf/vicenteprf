@@ -57,7 +57,10 @@ focado em boas práticas e evolução constante.
   
 
   <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=vicenteprf&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=3fb950&currStreakLabel=e6edf3&locale=pt_BR" />
+ <img
+  height="160em"
+  src="https://streak-stats.demolab.com?user=vicenteprf&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR"
+/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteprf&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3" />
 </div>
 
