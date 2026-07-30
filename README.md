@@ -4,9 +4,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para tech.<br/>
-Construindo projetos reais com JavaScript, TypeScript, React e Node.js —<br/>
-focado em boas práticas e evolução constante.
+Desenvolvedor Full Stack apaixonado por transformar ideias em soluções. Trabalho com JavaScript, TypeScript, React e Node.js, criando aplicações modernas, escaláveis e bem estruturadas, sempre buscando evoluir como desenvolvedor.
 
 <br/>
 
