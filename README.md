@@ -34,6 +34,7 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções. Trabal
 
 ![Node.js](https://img.shields.io/badge/-Node.js-6CC24A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-2E2E2C?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2E2E2C?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Banco de dados**
 
