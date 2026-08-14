@@ -69,11 +69,10 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções. Trabal
 
 <div align="center">
 
-### 📚 Atualmente estudando
-  
-  <p>🗄️ Banco de dados — PostgreSQL</p>
-  <p>🖥️ Node.js — APIs REST com Express e JWT</p>
-  <P>✅ Boas práticas de desenvolvimento</P>
+<p align="center">
+  <i>"Qualquer um pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendem."</i><br>
+  <b>— Martin Fowler</b>
+</p>
   
 </div>
 
