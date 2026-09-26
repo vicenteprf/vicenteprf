@@ -44,6 +44,7 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em soluções. Trabal
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white)
 
 </div>
 
